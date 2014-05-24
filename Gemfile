@@ -38,6 +38,7 @@ group :doc do
   gem 'sdoc', '0.3.20', require: false
 end
 
+# ää
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
